@@ -1,1 +1,2 @@
-# virtual-pet-2-error
+# Virtual pet
+Virtual pet project
